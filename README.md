@@ -1,4 +1,4 @@
-# Hi, I'm [Linus Orock Eyong]
+# Hi, I'm Linus Orock Eyong [Eric]
 
 AWS Certified Solutions Architect with 10+ years of experience at Amazon supporting sellers across Europe.
 
