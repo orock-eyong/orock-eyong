@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm [Linus Orock Eyong]
 
-<!--
-**orock-eyong/orock-eyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Certified Solutions Architect with 10+ years of experience at Amazon supporting sellers across Europe.
 
-Here are some ideas to get you started:
+Currently building hands-on cloud projects focused on serverless architectures and event-driven systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- AWS Certified Solutions Architect – Associate
+
+## Current Projects
+
+### AWS Serverless Text Processing Pipeline
+Event-driven pipeline that processes text files uploaded to S3.
+
+Architecture uses:
+- AWS Lambda
+- Amazon S3
+- Amazon DynamoDB
+- Amazon SNS
+
+Features:
+- Automatic word counting
+- Metadata storage
+- Event notifications
+
+## Skills
+
+Cloud & Architecture  
+AWS • Serverless • Event-driven systems  
+
+Services  
+Lambda • S3 • DynamoDB • SNS • SQS  
+
+Languages  
+Python • Bash
+
+## Goals
+
+Deepening expertise in cloud architecture, automation, and distributed systems.
